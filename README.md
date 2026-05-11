@@ -53,12 +53,12 @@
 ## 📈 GitHub Analytics <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="40" align="bottom"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedaELMOR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-nine-rho.vercel.app/api?username=RedaELMOR&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedaELMOR&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedaELMOR&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedaELMOR&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
