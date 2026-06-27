@@ -28,7 +28,7 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[PFE_Planner](https://github.com/RedaELMOR/PFE_Planner)** | Advanced algorithmic scheduler with hard constraint resolution. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-007396?style=flat) | 🚧 Active |
+| **[PFE_Planner](https://github.com/RedaELMOR/PFE-Planner)** | Advanced algorithmic scheduler with hard constraint resolution. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-007396?style=flat) | 🚧 Active |
 | **[Data Pipeline](#)** | ETL architecture to process and clean large-scale datasets. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ✅ Completed |
 | **[Predictive AI Model](#)** | Machine learning model for probabilistic data classification. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | 🛠️ Maintained |
 
